@@ -2,25 +2,29 @@
 
 
 
+# Nathaly Quiva's GitHub Profile
+
 ## About Me
 
-Hi there, I am Nathaly Quiva 👋, a passionate software developer with expertise in web development. I enjoy building innovative and user-friendly web applications. Here's a brief overview of my skills:
+Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafting robust backend solutions. With a solid foundation in JavaScript and Node.js, I specialize in building scalable server-side applications. Here's a glimpse of my skills:
 
-- 🌐 JavaScript, HTML, CSS: Proficient in front-end technologies, allowing me to create interactive and responsive user interfaces.
+- 🖥️ Node.js: Proficient in leveraging Node.js to develop backend systems, RESTful APIs, and microservices.
+- 🛠️ Express: Skilled in utilizing the Express.js framework for building efficient and maintainable backend solutions.
+- 🛢️ Databases: Experienced in working with both SQL (e.g., PostgreSQL) and NoSQL (e.g., MongoDB) databases to ensure effective data management.
+- 📚 Continuous Learning: Committed to staying updated with the latest trends and best practices in backend development.
 
-- 🖥️ Node.js: Experienced in developing server-side applications and APIs using Node.js.
-  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/320px-Node.js_logo.svg.png" alt="Node.js Logo" width="120">
+## Experience
 
-- ⚛️ React.js: Familiar with the React.js library for building dynamic and efficient user interfaces.
+- Software Engineer Intern at XYZ Tech (2023): Contributed to backend development projects, focusing on performance optimization and API integrations.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" alt="React.js Logo" width="120">
+## Featured Projects
 
-- 📚 Continuous Learning: Always eager to learn and explore new technologies and best practices.
+- **Project A:** Brief description of the backend project. [Repository](https://github.com/yourusername/projectA)
+- **Project B:** Brief description of the backend project. [Repository](https://github.com/yourusername/projectB)
 
+## Full Stack Capabilities
 
-
-Feel free to explore my repositories for more projects and code samples!
+In addition to backend development, I also have experience with frontend technologies, including JavaScript, HTML, and CSS. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise.
 
 ## Contact
 
@@ -29,10 +33,9 @@ Feel free to explore my repositories for more projects and code samples!
 
 ## Get in Touch
 
-I'm always open to collaboration and networking. If you'd like to discuss any project, have questions, or just want to connect, feel free to reach out to me via LinkedIn or email.
+I'm passionate about backend development and open to discussing opportunities where I can contribute my expertise. Whether it's backend-focused projects or full stack development, I'm excited to explore how I can add value to your team.
 
 Thank you for visiting my GitHub profile! 🙏
-
 
 
 
