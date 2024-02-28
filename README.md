@@ -33,8 +33,7 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
 
 -  Perfil de LinkedIn: [![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/20px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/nathalyquiva/)
   
-- Correo electrónico: nathalyquiva2@gmail.com
-- Si deseas enviarme un correo directamente hazlo acá: <a href="mailto:nathalyquiva2@gmail.com"> Envíame un correo electrónico </a>
+- Contáctame aquí: <a href="mailto:nathalyquiva2@gmail.com">nathalyquiva2@gmail.com</a>
 
 ## Ponte en contacto
 
