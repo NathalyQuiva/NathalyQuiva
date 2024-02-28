@@ -2,13 +2,22 @@
 # Nathaly Quiva's GitHub Profile
 
 ## About Me
+## Backend and Full Stack Capabilities
 
-Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafting robust backend solutions. With a solid foundation in JavaScript and Node.js, With experience in projects creating scalable server-side applications. Here's a glimpse of my skills:
+Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafting robust backend solutions. With a solid foundation in JavaScript and Node.js, With experience in projects creating scalable server-side applications. I also have experience with frontend technologies. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise. Here's a glimpse of my skills:
 
+- 🌐 JavaScript: Proficient in JavaScript for both frontend and backend development.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/120px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript Logo" width="60">
 - 🖥️ Node.js: Proficient in leveraging Node.js to develop backend systems and RESTful APIs.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="Node.js Logo" width="60">
 - 🛠️ Express: Skilled in utilizing the Express.js framework for building efficient and maintainable backend solutions.
 - 🛢️ Databases: Experienced in working with both SQL (e.g., PostgreSQL) databases to ensure effective data management.
 - 📚 Continuous Learning: Committed to staying updated with the latest trends and best practices in backend development.
+- HTML5: Proficient in HTML5 for creating structured and semantic web pages.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" width="60">
+- CSS: Skilled in CSS for styling and formatting web pages.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="60">
+
 
 ## Experience on projects
 
@@ -20,10 +29,6 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 - **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize. [Repository](https://github.com/NathalyQuiva/app_notes)
 - **restful_api_movies:** RESTful API developed about movies and users using Node.js, Express.js, Fetch API, and other tools to provide a streamlined API for performing various actions. [Repository](https://github.com/NathalyQuiva/restful_api_movies)
 
-
-## Full Stack Capabilities
-
-I also have experience with frontend technologies, including JavaScript, HTML5, and CSS. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise.
 
 ## Contact
 
