@@ -79,8 +79,9 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 
 ## Contact
 
-- LinkedIn: [Nathaly Quiva's LinkedIn Profile](https://www.linkedin.com/in/nathalyquiva/)
-- Email: nathalyquiva2@gmail.com
+-  LinkedIn Profile: [![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/20px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/nathalyquiva/)
+  
+- Contact me: <a href="mailto:nathalyquiva2@gmail.com">nathalyquiva2@gmail.com</a>
 
 ## Get in Touch
 
