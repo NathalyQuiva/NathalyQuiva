@@ -9,7 +9,7 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
 - 🖥️ Node.js: experiencia en proyectos en el aprovechamiento de Node.js para desarrollar sistemas backend y APIs RESTful.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="Logotipo de Node.js" width="60">
 - 🛠️ Express: Hábil en el uso del framework Express.js para construir soluciones backend eficientes y mantenibles.
-- 🛢️ Bases de datos: Experimentada en trabajar con bases de datos SQL (PostgreSQL) para garantizar una gestión efectiva de los datos.
+- 🛢️ Bases de datos: Hábil en trabajar con bases de datos SQL (PostgreSQL) para garantizar una gestión efectiva de los datos.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Logotipo de SQL" width="60">
 - ⚛️ React.js: Familiarizada con el uso de la biblioteca React.js para crear interfaces de usuario dinámicas y eficientes.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" alt="Logotipo de React.js" width="60">
