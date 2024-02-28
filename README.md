@@ -12,11 +12,11 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="Node.js Logo" width="60">
 - 🛠️ Express: Skilled in utilizing the Express.js framework for building efficient and maintainable backend solutions.
 - 🛢️ Databases: Experienced in working with both SQL (e.g., PostgreSQL) databases to ensure effective data management.<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="SQL Logo" width="60">
-- 📚 Continuous Learning: Committed to staying updated with the latest trends and best practices in backend development.
 - 📔 HTML5: Proficient in HTML5 for creating structured and semantic web pages.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" width="60">
 - 🎨 CSS: Skilled in CSS for styling and formatting web pages.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="60">
+- 📚 Continuous Learning: Committed to staying updated with the latest trends and best practices in backend and fullstack development.
 
 
 ## Experience on projects
