@@ -56,7 +56,7 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 - 🖥️ Node.js: Proficient in leveraging Node.js to develop backend systems and RESTful APIs.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="Node.js Logo" width="60">
 - 🛠️ Express: Skilled in utilizing the Express.js framework for building efficient and maintainable backend solutions.
-- 🛢️ Databases: Experienced in working with SQL (PostgreSQL) database to ensure effective data management.<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="SQL Logo" width="60">
+- 🛢️ Databases: Skilled in working with SQL (PostgreSQL) database to ensure effective data management.<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="SQL Logo" width="60">
 - ⚛️ React.js: Familiar with the React.js library for building dynamic and efficient user interfaces.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" alt="React.js Logo" width="60">
 - 📔 HTML5: Proficient in HTML5 for creating structured and semantic web pages.
