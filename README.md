@@ -1,16 +1,13 @@
-# Nathaly Quiva's GitHub Profile
-
-
 
 # Nathaly Quiva's GitHub Profile
 
 ## About Me
 
-Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafting robust backend solutions. With a solid foundation in JavaScript and Node.js, I specialize in building scalable server-side applications. Here's a glimpse of my skills:
+Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafting robust backend solutions. With a solid foundation in JavaScript and Node.js, With experience in projects creating scalable server-side applications.. Here's a glimpse of my skills:
 
-- 🖥️ Node.js: Proficient in leveraging Node.js to develop backend systems, RESTful APIs, and microservices.
+- 🖥️ Node.js: Proficient in leveraging Node.js to develop backend systems and RESTful APIs.
 - 🛠️ Express: Skilled in utilizing the Express.js framework for building efficient and maintainable backend solutions.
-- 🛢️ Databases: Experienced in working with both SQL (e.g., PostgreSQL) and NoSQL (e.g., MongoDB) databases to ensure effective data management.
+- 🛢️ Databases: Experienced in working with both SQL (e.g., PostgreSQL) databases to ensure effective data management.
 - 📚 Continuous Learning: Committed to staying updated with the latest trends and best practices in backend development.
 
 ## Experience
