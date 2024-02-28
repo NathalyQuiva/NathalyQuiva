@@ -1,5 +1,5 @@
 
-# Nathaly Quiva's GitHub Profile
+# Nathaly Quiva's GitHub English Profile
 
 ## About Me
 ## Backend and Full Stack Capabilities
@@ -42,6 +42,8 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 I'm passionate about backend and fullstack development and open to discussing opportunities where I can contribute my expertise. Whether it's backend-focused projects or full stack development, I'm excited to explore how I can add value to your team.
 
 Thank you for visiting my GitHub profile! 
+
+<hr>
 
 
 
