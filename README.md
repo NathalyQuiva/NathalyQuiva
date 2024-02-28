@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafting robust backend solutions. With a solid foundation in JavaScript and Node.js, With experience in projects creating scalable server-side applications.. Here's a glimpse of my skills:
+Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafting robust backend solutions. With a solid foundation in JavaScript and Node.js, With experience in projects creating scalable server-side applications. Here's a glimpse of my skills:
 
 - 🖥️ Node.js: Proficient in leveraging Node.js to develop backend systems and RESTful APIs.
 - 🛠️ Express: Skilled in utilizing the Express.js framework for building efficient and maintainable backend solutions.
@@ -17,14 +17,14 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 ## Featured Projects
 
 - **Profinder:** It is a dating application that allows service provider users to publish their services and offer them within various categories in different areas of Latin America. Client users can consult these publications according to their area and establish contact with service providers to hire them.. [Repository](https://github.com/NathalyQuiva/profinder_services_application)
-- **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize.. [Repository](https://github.com/NathalyQuiva/app_notes)
-- **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize.. [Repository](https://github.com/NathalyQuiva/app_notes)
+- **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize. [Repository](https://github.com/NathalyQuiva/app_notes)
+- **restful_api_movies:** RESTful API developed about movies and users using Node.js, Express.js, Fetch API, and other tools to provide a streamlined API for performing various actions. [Repository](https://github.com/NathalyQuiva/restful_api_movies)
 - **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize.. [Repository](https://github.com/NathalyQuiva/app_notes)
 - **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize.. [Repository](https://github.com/NathalyQuiva/app_notes)
 
 ## Full Stack Capabilities
 
-I have experience with frontend technologies, including JavaScript, HTML5, and CSS. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise.
+I also have experience with frontend technologies, including JavaScript, HTML5, and CSS. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise.
 
 ## Contact
 
@@ -33,7 +33,7 @@ I have experience with frontend technologies, including JavaScript, HTML5, and C
 
 ## Get in Touch
 
-I'm passionate about backend development and open to discussing opportunities where I can contribute my expertise. Whether it's backend-focused projects or full stack development, I'm excited to explore how I can add value to your team.
+I'm passionate about backend and fullstack development and open to discussing opportunities where I can contribute my expertise. Whether it's backend-focused projects or full stack development, I'm excited to explore how I can add value to your team.
 
 Thank you for visiting my GitHub profile! 🙏
 
