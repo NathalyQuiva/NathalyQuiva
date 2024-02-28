@@ -14,7 +14,6 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 - 🛢️ Databases: Experienced in working with both SQL (e.g., PostgreSQL) databases to ensure effective data management.
 - 📚 Continuous Learning: Committed to staying updated with the latest trends and best practices in backend development.
 - 📔<img src="https://emojicdn.elk.sh/📔" alt="Notebook" width="20"> HTML5: Proficient in HTML5 for creating structured and semantic web pages.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" width="60"> HTML5: Proficient in HTML5 for creating structured and semantic web pages.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo" width="60">
 - CSS: Skilled in CSS for styling and formatting web pages.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="CSS Logo" width="60">
