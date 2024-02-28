@@ -10,18 +10,18 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 - 🛢️ Databases: Experienced in working with both SQL (e.g., PostgreSQL) databases to ensure effective data management.
 - 📚 Continuous Learning: Committed to staying updated with the latest trends and best practices in backend development.
 
-## Experience
+## Experience on projects
 
-- Software Engineer Intern at XYZ Tech (2023): Contributed to backend development projects, focusing on performance optimization and API integrations.
+-Academic experience at Henry Bootcamp (2023): Full stack application development (relational database development, backend and frontend). Contributed to backend development projects, focusing on performance optimization and API integrations. 
 
 ## Featured Projects
 
-- **Project A:** Brief description of the backend project. [Repository](https://github.com/yourusername/projectA)
-- **Project B:** Brief description of the backend project. [Repository](https://github.com/yourusername/projectB)
+- **Profinder:** It is a dating application that allows service provider users to publish their services and offer them within various categories in different areas of Latin America. Client users can consult these publications according to their area and establish contact with service providers to hire them.. [Repository](https://github.com/NathalyQuiva/profinder_services_application)
+- **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize.. [Repository](https://github.com/NathalyQuiva/app_notes)
 
 ## Full Stack Capabilities
 
-In addition to backend development, I also have experience with frontend technologies, including JavaScript, HTML, and CSS. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise.
+In addition to backend development, I also have experience with frontend technologies, including JavaScript, HTML5, and CSS. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise.
 
 ## Contact
 
