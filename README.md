@@ -6,18 +6,18 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
 
 - 🌐 JavaScript: Competente en JavaScript tanto para desarrollo backend como frontend.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/120px-Unofficial_JavaScript_logo_2.svg.png" alt="Logotipo de JavaScript" width="60">
-- 🖥️ Node.js: Competente en el aprovechamiento de Node.js para desarrollar sistemas backend y APIs RESTful.
+- 🖥️ Node.js: experiencia en proyectos en el aprovechamiento de Node.js para desarrollar sistemas backend y APIs RESTful.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/120px-Node.js_logo.svg.png" alt="Logotipo de Node.js" width="60">
 - 🛠️ Express: Hábil en el uso del framework Express.js para construir soluciones backend eficientes y mantenibles.
 - 🛢️ Bases de datos: Experimentada en trabajar con bases de datos SQL (PostgreSQL) para garantizar una gestión efectiva de los datos.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Logotipo de SQL" width="60">
-- ⚛️ React.js: Familiarizada con la biblioteca React.js para crear interfaces de usuario dinámicas y eficientes.
+- ⚛️ React.js: Familiarizada con el uso de la biblioteca React.js para crear interfaces de usuario dinámicas y eficientes.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png" alt="Logotipo de React.js" width="60">
 - 📔 HTML5: Competente en HTML5 para crear páginas web estructuradas y semánticas.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png" alt="Logotipo de HTML5" width="60">
 - 🎨 CSS: Hábil en CSS para dar estilo y formato a páginas web.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="Logotipo de CSS" width="60">
-- 📚 Aprendizaje continuo: Comprometida a mantenerme actualizada con las últimas tendencias y mejores prácticas en desarrollo backend y frontend.
+- 📚 Aprendizaje continuo: Comprometida a mantenerme diligentemente actualizada con las últimas tendencias y mejores prácticas en desarrollo backend y frontend.
 
 ## Experiencia en proyectos
 
@@ -39,8 +39,9 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
 Soy apasionada por el desarrollo backend y full stack, y estoy abierta a discutir oportunidades donde pueda contribuir con mi experiencia. Ya sea en proyectos centrados en el backend o en desarrollo full stack, ¡estoy emocionada de explorar cómo puedo agregar valor a tu equipo!
 
 ¡Gracias por visitar mi perfil de GitHub!
-
-
+<br>
+<br>
+<br>
 <hr>
 
 # Nathaly Quiva's GitHub English Profile
