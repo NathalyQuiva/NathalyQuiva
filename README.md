@@ -1,4 +1,4 @@
-# Perfil de GitHub de Nathaly Quiva
+# Nathaly Quiva
 
 ## Capacidades en Backend y Full Stack
 
