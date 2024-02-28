@@ -31,7 +31,8 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
 
 ## Contacto
 
-- LinkedIn: [Mi perfil de LinkedIn](https://www.linkedin.com/in/nathalyquiva/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/20px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20">
+- [![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/20px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/nathalyquiva/) Perfil de LinkedIn de Nathaly Quiva
+  
 - Correo electrónico: nathalyquiva2@gmail.com
 
 ## Ponte en contacto
