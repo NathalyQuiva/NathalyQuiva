@@ -1,7 +1,6 @@
 
 # Nathaly Quiva's GitHub English Profile
 
-## About Me
 ## Backend and Full Stack Capabilities
 
 Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafting robust backend solutions. With a solid foundation in JavaScript and Node.js, With experience in projects creating scalable server-side applications. I also have experience with frontend technologies. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise. Here's a glimpse of my skills:
