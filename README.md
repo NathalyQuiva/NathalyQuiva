@@ -18,10 +18,13 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 
 - **Profinder:** It is a dating application that allows service provider users to publish their services and offer them within various categories in different areas of Latin America. Client users can consult these publications according to their area and establish contact with service providers to hire them.. [Repository](https://github.com/NathalyQuiva/profinder_services_application)
 - **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize.. [Repository](https://github.com/NathalyQuiva/app_notes)
+- **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize.. [Repository](https://github.com/NathalyQuiva/app_notes)
+- **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize.. [Repository](https://github.com/NathalyQuiva/app_notes)
+- **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize.. [Repository](https://github.com/NathalyQuiva/app_notes)
 
 ## Full Stack Capabilities
 
-In addition to backend development, I also have experience with frontend technologies, including JavaScript, HTML5, and CSS. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise.
+I have experience with frontend technologies, including JavaScript, HTML5, and CSS. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise.
 
 ## Contact
 
