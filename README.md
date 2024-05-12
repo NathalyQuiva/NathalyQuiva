@@ -37,7 +37,7 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
 
 ## Portafolio
 
-(https://nathalyquiva.github.io/portfolio_javascript/)
+https://nathalyquiva.github.io/portfolio_javascript/
 
 ## Ponte en contacto
 
@@ -86,6 +86,10 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 -  LinkedIn Profile: [![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/20px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/nathalyquiva/)
   
 - Contact me: <a href="mailto:nathalyquiva2@gmail.com">nathalyquiva2@gmail.com</a>
+
+## Portfolio
+
+https://nathalyquiva.github.io/portfolio_javascript/
 
 ## Get in Touch
 
