@@ -35,6 +35,7 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
   
 - Contáctame aquí: <a href="mailto:nathalyquiva2@gmail.com">nathalyquiva2@gmail.com</a>
 
+
 ## Ponte en contacto
 
 Soy apasionada por el desarrollo backend y full stack, y estoy abierta a discutir oportunidades donde pueda contribuir con mi experiencia. Ya sea en proyectos centrados en el backend o en desarrollo full stack, ¡estoy emocionada de explorar cómo puedo agregar valor a tu equipo!
