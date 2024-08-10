@@ -48,7 +48,7 @@ Conocimientos y experiencia en proyectos de creación y manipulación de bases d
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHlCTfcQ8A0zVaKoDZ9NuPdNe-28F_YleVQ&s" alt="Logotipo de Microsoft Access" width="60">
 
 - 📊 **Power BI:** Experiencia en la creación de informes interactivos y dashboards, análisis de datos y visualización de datos complejos.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Power_BI_Logo.svg/120px-Power_BI_Logo.svg.png" alt="Logotipo de Power BI" width="60">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYKUb4D0RD2yRUZfSne-bgPEkPURvsONPvUA&s" alt="Logotipo de Power BI" width="60">
 
 - 🗂️ **SQL:** Habilidad en SQL para realizar consultas avanzadas, manejo y administración de bases de datos relacionales. Competente en PostgreSQL para la gestión y análisis de bases de datos relacionales.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgzGZXpyADmOyEwp9004kcqXsDDs3xuhpZpw&s" alt="Logotipo de SQL" width="60">
@@ -91,7 +91,6 @@ Soy apasionada por el desarrollo backend, ,full stack, análisis de datos, optim
 
 
 <div align="center">
-  <hr></hr>
   <h1>Nathaly Quiva</h1>
   <h4>Full Stack Developer/ Business Intelliigence</h4>
   <hr></hr>
@@ -138,7 +137,7 @@ Knowledge and experience in projects involving the creation and manipulation of 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHlCTfcQ8A0zVaKoDZ9NuPdNe-28F_YleVQ&s" alt="Microsoft Access Logo" width="60">
 
 - 📊 **Power BI:** Experience in creating interactive reports and dashboards, data analysis, and visualizing complex data.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Power_BI_Logo.svg/120px-Power_BI_Logo.svg.png" alt="Power BI Logo" width="60">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYKUb4D0RD2yRUZfSne-bgPEkPURvsONPvUA&s" alt="Power BI Logo" width="60">
 
 - 🗂️ **SQL:** Proficient in SQL for performing advanced queries, database management, and administration. Competent in PostgreSQL for managing and analyzing relational databases.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgzGZXpyADmOyEwp9004kcqXsDDs3xuhpZpw&s" alt="SQL Logo" width="60">
