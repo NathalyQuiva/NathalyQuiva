@@ -41,11 +41,8 @@ Conocimientos y experiencia en proyectos de creación y manipulación de bases d
 - 🗃️ **Microsoft Access:** Experiencia en proyectos en la gestión de bases de datos, consultas, formularios e informes.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHlCTfcQ8A0zVaKoDZ9NuPdNe-28F_YleVQ&s" alt="Logotipo de Microsoft Access" width="60">
 
-- 🐘 **PostgreSQL:** Competente en PostgreSQL para la gestión y análisis de bases de datos relacionales.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Logotipo de PostgreSQL" width="60">
-
-- 🗂️ **SQL:** Habilidad en SQL para realizar consultas avanzadas, manejo y administración de bases de datos relacionales.
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SQL_Logo.svg/120px-SQL_Logo.svg.png" alt="Logotipo de SQL" width="60">
+- 🗂️ **SQL:** Habilidad en SQL para realizar consultas avanzadas, manejo y administración de bases de datos relacionales. Competente en PostgreSQL para la gestión y análisis de bases de datos relacionales.
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi8LjVDGoMYWQBOPtuqAVxis_R3dp5S5t2rA&s" alt="Logotipo de SQL" width="60">
 
 - 🗄️ **MongoDB:** Experiencia en el uso de MongoDB para la gestión de bases de datos no relacionales.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/MongoDB_Logo.svg/120px-MongoDB_Logo.svg.png" alt="Logotipo de MongoDB" width="60">
