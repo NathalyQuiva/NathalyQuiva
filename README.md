@@ -1,9 +1,5 @@
-<div align="center"># Nathaly Quiva. Desarrollador Full Stack / Inteligencia de Negocios.
-    <h1 >Nathaly Quiva</h1>
-    <h2 >Desarrolladora Full Stack / Inteligencia de Negocios</h2>
-</div>
-
-
+# Nathaly Quiva
+## Desarrolladora Full Stack / Inteligencia de Negocios
 
 
 ## Capacidades en Backend y Full Stack
