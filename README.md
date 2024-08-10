@@ -38,11 +38,11 @@ Dominio del lenguaje Python y algoritmos, aplicados en diversos proyectos.
 
 ## Proyectos destacados inteligencia de negocios
 
-- **Electrónicos OKA:** Proyecto de Gestión de Inventarios y Análisis de Datos en Microsoft Excel con garantía de integridad y consistencia de datos e implementación de fórmulas avanzadas, tablas dinámicas y macros.
+- **Electrónicos OKA:** Proyecto de gestión de inventarios y análisis de datos en Microsoft Excel con garantía de integridad y consistencia de datos e implementación de fórmulas avanzadas, tablas dinámicas y macros.
 . [Link](https://docs.google.com/spreadsheets/d/1o1EP7EVynzIzqU11ads1HJCltPQSJhIX/edit?usp=sharing&ouid=111282639346582920641&rtpof=true&sd=true)
-- **Electrónicos OKA. Microsoft Access:** Proyecto de Gestión de Inventarios, creación de base de datos, consultas, formularios, informes y Análisis de Datos en Microsoft Access
+- **Electrónicos OKA. Microsoft Access:** Proyecto de gestión de inventarios, creación de base de datos, consultas, formularios, informes y análisis de datos en Microsoft Access
 . [Link](https://drive.google.com/file/d/1NPy8Ri4FbxGnT-Ds4Ko4tK8byk5CRXCb/view?usp=sharing)
-- **restful_api_movies:** API RESTful desarrollada sobre películas y usuarios utilizando Node.js, Express.js, Fetch API y otras herramientas para proporcionar una API simplificada para realizar diversas acciones. [Repositorio](https://github.com/NathalyQuiva/restful_api_movies)
+- **Proyectos Python:** Proyectos en Lenguaje Python, desarrollado con la interfaz Visual Studio Code e IDLE, en donde se hace uso de: recursión, importaciones de módulos, uso de documentación Python, ciclos for y while, estructura de datos: listas, diccionarios, conjuntos; métodos de estructura de datos, importación de archivos. [Repositorio](https://github.com/NathalyQuiva/python_projects)
 
 ## Contacto
 
