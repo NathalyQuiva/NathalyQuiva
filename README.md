@@ -19,13 +19,27 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="Logotipo de CSS" width="60">
 - 📚 Aprendizaje continuo: Comprometida a mantenerme diligentemente actualizada con las últimas tendencias y mejores prácticas en desarrollo backend y frontend.
 
+## Capacidades en Inteligencia de negocios (Business Intelligence)
+
+- Conocimientos y experiencia en la creación y manipulación de bases de datos relacionales SQL y en Access en proyectos (migración de datos, establecimiento de relaciones, creación de bases de datos, consultas, informes y formularios). 
+- Experiencia  en el uso de fórmulas, tablas dinámicas y macros para el análisis y visualización de datos en Microsoft Excel.
+Dominio del lenguaje Python y algoritmos, aplicados en diversos proyectos. 
+- Experiencia en proyectos utilizando Power BI para la creación de insights y dashboards interactivos y de herramienta de gestión de tareas y proyectos Jira.
+
 ## Experiencia en proyectos
 
 - Experiencia académica en Henry Bootcamp (2023): Contribuí en proyectos de desarrollo backend, centrándome en la optimización del rendimiento y las integraciones de API, así como en el desarrollo de aplicaciones full stack (desarrollo de bases de datos relacionales, backend y frontend).
 
-## Proyectos destacados
+## Proyectos destacados desarrollo web
 
 - **Profinder:** Es una aplicación de citas que permite a los usuarios proveedores de servicios publicar sus servicios y ofrecerlos en diversas categorías en diferentes áreas de América Latina. Los usuarios clientes pueden consultar estas publicaciones según su área y establecer contacto con los proveedores de servicios para contratarlos. [Repositorio](https://github.com/NathalyQuiva/profinder_services_application)
+- **app_notes:** Es una aplicación de página única sobre notas utilizando las siguientes tecnologías: React, Redux, Node, Express y Sequelize. [Repositorio](https://github.com/NathalyQuiva/app_notes)
+- **restful_api_movies:** API RESTful desarrollada sobre películas y usuarios utilizando Node.js, Express.js, Fetch API y otras herramientas para proporcionar una API simplificada para realizar diversas acciones. [Repositorio](https://github.com/NathalyQuiva/restful_api_movies)
+
+## Proyectos destacados inteligencia de negocios
+
+- **Electrónicos OKA:** Proyecto de Gestión de Inventarios y Análisis de Datos en Microsoft Excel con garantía de integridad y consistencia de datos e implementación de fórmulas avanzadas, tablas dinámicas y macros.
+. [Repositorio](https://docs.google.com/spreadsheets/d/1o1EP7EVynzIzqU11ads1HJCltPQSJhIX/ edit?usp=sharing&ouid=111282639346582920641&rtpof=true&sd=true)
 - **app_notes:** Es una aplicación de página única sobre notas utilizando las siguientes tecnologías: React, Redux, Node, Express y Sequelize. [Repositorio](https://github.com/NathalyQuiva/app_notes)
 - **restful_api_movies:** API RESTful desarrollada sobre películas y usuarios utilizando Node.js, Express.js, Fetch API y otras herramientas para proporcionar una API simplificada para realizar diversas acciones. [Repositorio](https://github.com/NathalyQuiva/restful_api_movies)
 
