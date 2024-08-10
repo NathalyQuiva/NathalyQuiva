@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Man_computer.svg/120px-Man_computer.svg.png" alt="Ícono de mujer trabajando en computadora" width="60">
-    <h1 style= "font-size: 4em">Nathaly Quiva</h1>
+    <h1 style= "font-size: 40em">Nathaly Quiva</h1>
     <p>Desarrolladora Full Stack / Inteligencia de Negocios</p>
 </div>
 
