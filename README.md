@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Nathaly Quiva</h1>
-  <h3>Desarrolladora Full Stack / Inteligencia de Negocios</h3>
+  <h4>Desarrolladora Full Stack / Inteligencia de Negocios</h4>
 </div>
+<hr></hr>
 
 ### Capacidades en Backend y Full Stack
 
