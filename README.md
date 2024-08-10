@@ -2,7 +2,7 @@
   <h1>Nathaly Quiva</h1>
   <h4>Desarrolladora Full Stack / Inteligencia de Negocios</h4>
 </div>
-<hr></hr>
+<br></br>
 
 ### Capacidades en Backend y Full Stack
 
