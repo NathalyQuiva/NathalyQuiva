@@ -1,4 +1,4 @@
-# Nathaly Quiva
+# Nathaly Quiva. Desarrollador Full Stack / Inteligencia de Negocios.
 
 ## Capacidades en Backend y Full Stack
 
@@ -19,13 +19,6 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png" alt="Logotipo de CSS" width="60">
 - 📚 Aprendizaje continuo: Comprometida a mantenerme diligentemente actualizada con las últimas tendencias y mejores prácticas en desarrollo backend y frontend.
 
-## Capacidades en Inteligencia de negocios (Business Intelligence)
-
-- Conocimientos y experiencia en la creación y manipulación de bases de datos relacionales SQL y en Access en proyectos (migración de datos, establecimiento de relaciones, creación de bases de datos, consultas, informes y formularios). 
-- Experiencia  en el uso de fórmulas, tablas dinámicas y macros para el análisis y visualización de datos en Microsoft Excel.
-Dominio del lenguaje Python y algoritmos, aplicados en diversos proyectos. 
-- Experiencia en proyectos utilizando Power BI para la creación de insights y dashboards interactivos y de herramienta de gestión de tareas y proyectos Jira.
-
 ## Experiencia en proyectos
 
 - Experiencia académica en Henry Bootcamp (2023): Contribuí en proyectos de desarrollo backend, centrándome en la optimización del rendimiento y las integraciones de API, así como en el desarrollo de aplicaciones full stack (desarrollo de bases de datos relacionales, backend y frontend).
@@ -35,6 +28,34 @@ Dominio del lenguaje Python y algoritmos, aplicados en diversos proyectos.
 - **Profinder:** Es una aplicación de citas que permite a los usuarios proveedores de servicios publicar sus servicios y ofrecerlos en diversas categorías en diferentes áreas de América Latina. Los usuarios clientes pueden consultar estas publicaciones según su área y establecer contacto con los proveedores de servicios para contratarlos. [Repositorio](https://github.com/NathalyQuiva/profinder_services_application)
 - **app_notes:** Es una aplicación de página única sobre notas utilizando las siguientes tecnologías: React, Redux, Node, Express y Sequelize. [Repositorio](https://github.com/NathalyQuiva/app_notes)
 - **restful_api_movies:** API RESTful desarrollada sobre películas y usuarios utilizando Node.js, Express.js, Fetch API y otras herramientas para proporcionar una API simplificada para realizar diversas acciones. [Repositorio](https://github.com/NathalyQuiva/restful_api_movies)
+
+
+## Capacidades en Inteligencia de negocios (Business Intelligence)
+
+- Conocimientos y experiencia en la creación y manipulación de bases de datos relacionales SQL y en Access en proyectos (migración de datos, establecimiento de relaciones, creación de bases de datos, consultas, informes y formularios). 
+- Experiencia  en el uso de fórmulas, tablas dinámicas y macros para el análisis y visualización de datos en Microsoft Excel.
+Dominio del lenguaje Python y algoritmos, aplicados en diversos proyectos. 
+- Experiencia en proyectos utilizando Power BI para la creación de insights y dashboards interactivos y de herramienta de gestión de tareas y proyectos Jira.
+
+
+- 📊 **Excel:** Dominio intermedio de Microsoft Excel para análisis de datos en el ámbito de Business Intelligence, incluyendo fórmulas avanzadas, tablas dinámicas y macros.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Microsoft_Excel_Logo_2013.svg/120px-Microsoft_Excel_Logo_2013.svg.png" alt="Logotipo de Excel" width="60">
+
+- 🗃️ **Microsoft Access:** Experiencia en proyectos en la gestión de bases de datos, consultas, formularios e informes.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Microsoft_Access_logo_%282013-2019%29.svg/120px-Microsoft_Access_logo_%282013-2019%29.svg.png" alt="Logotipo de Microsoft Access" width="60">
+
+- 🐘 **PostgreSQL:** Competente en PostgreSQL para la gestión y análisis de bases de datos relacionales.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Logotipo de PostgreSQL" width="60">
+
+- 🗂️ **SQL:** Habilidad en SQL para realizar consultas avanzadas, manejo y administración de bases de datos relacionales.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/SQL_Logo.svg/120px-SQL_Logo.svg.png" alt="Logotipo de SQL" width="60">
+
+- 🗄️ **MongoDB:** Experiencia en el uso de MongoDB para la gestión de bases de datos no relacionales.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/MongoDB_Logo.svg/120px-MongoDB_Logo.svg.png" alt="Logotipo de MongoDB" width="60">
+
+- 🐍 **Python:** Dominio básico de Python para la automatización de análisis de datos, scripting y desarrollo de soluciones de BI.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png" alt="Logotipo de Python" width="60">
+
 
 ## Proyectos destacados inteligencia de negocios
 
