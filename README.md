@@ -1,6 +1,8 @@
 <div align="center">
+  <hr></hr>
   <h1>Nathaly Quiva</h1>
   <h4>Desarrolladora Full Stack / Inteligencia de Negocios</h4>
+  <hr></hr>
 </div>
 <br></br>
 
