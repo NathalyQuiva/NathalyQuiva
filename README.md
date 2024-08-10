@@ -34,8 +34,8 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
 - **Profinder:** Es una aplicación de citas que permite a los usuarios proveedores de servicios publicar sus servicios y ofrecerlos en diversas categorías en diferentes áreas de América Latina. Los usuarios clientes pueden consultar estas publicaciones según su área y establecer contacto con los proveedores de servicios para contratarlos. [Repositorio](https://github.com/NathalyQuiva/profinder_services_application)
 - **app_notes:** Es una aplicación de página única sobre notas utilizando las siguientes tecnologías: React, Redux, Node, Express y Sequelize. [Repositorio](https://github.com/NathalyQuiva/app_notes)
 - **restful_api_movies:** API RESTful desarrollada sobre películas y usuarios utilizando Node.js, Express.js, Fetch API y otras herramientas para proporcionar una API simplificada para realizar diversas acciones. [Repositorio](https://github.com/NathalyQuiva/restful_api_movies)
-
-
+<br></br>
+<br></br>
 ## Capacidades en Inteligencia de negocios (Business Intelligence)
 
 Conocimientos y experiencia en proyectos de creación y manipulación de bases de datos relacionales SQL y en Access (migración de datos, establecimiento de relaciones, creación de bases de datos, consultas, informes y formularios). Experiencia en el uso de fórmulas, tablas dinámicas y macros para el análisis y visualización de datos en Microsoft Excel. Además he utilizando Power BI para la creación de insights y dashboards interactivos y herramienta de gestión de tareas como Jira.
@@ -66,7 +66,7 @@ Conocimientos y experiencia en proyectos de creación y manipulación de bases d
 - **Electrónicos OKA. Microsoft Access:** Proyecto de gestión de inventarios, creación de base de datos, consultas, formularios, informes y análisis de datos en Microsoft Access
 . [Link](https://drive.google.com/file/d/1NPy8Ri4FbxGnT-Ds4Ko4tK8byk5CRXCb/view?usp=sharing)
 - **Proyectos Python:** Proyectos en Lenguaje Python, desarrollado con la interfaz Visual Studio Code e IDLE, en donde se hace uso de: recursión, importaciones de módulos, uso de documentación Python, ciclos for y while, estructura de datos: listas, diccionarios, conjuntos; métodos de estructura de datos, importación de archivos. [Repositorio](https://github.com/NathalyQuiva/python_projects)
-
+<br></br>
 ## Contacto
 
 -  Perfil de LinkedIn: [![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/20px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/nathalyquiva/)
