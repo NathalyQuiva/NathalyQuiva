@@ -47,6 +47,9 @@ Conocimientos y experiencia en proyectos de creación y manipulación de bases d
 - 🗃️ **Microsoft Access:** Experiencia en proyectos en la gestión de bases de datos, consultas, formularios e informes.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHlCTfcQ8A0zVaKoDZ9NuPdNe-28F_YleVQ&s" alt="Logotipo de Microsoft Access" width="60">
 
+- 📊 **Power BI:** Experiencia en la creación de informes interactivos y dashboards, análisis de datos y visualización de datos complejos.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Power_BI_Logo.svg/120px-Power_BI_Logo.svg.png" alt="Logotipo de Power BI" width="60">
+
 - 🗂️ **SQL:** Habilidad en SQL para realizar consultas avanzadas, manejo y administración de bases de datos relacionales. Competente en PostgreSQL para la gestión y análisis de bases de datos relacionales.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgzGZXpyADmOyEwp9004kcqXsDDs3xuhpZpw&s" alt="Logotipo de SQL" width="60">
 
@@ -76,15 +79,24 @@ https://nathalyquiva.github.io/portfolio_javascript/
 
 ## Ponte en contacto
 
-Soy apasionada por el desarrollo backend y full stack, y estoy abierta a discutir oportunidades donde pueda contribuir con mi experiencia. Ya sea en proyectos centrados en el backend o en desarrollo full stack, ¡estoy emocionada de explorar cómo puedo agregar valor a tu equipo!
+Soy apasionada por el desarrollo backend, ,full stack, análisis de datos, optimización de procesos y estoy abierta a discutir oportunidades donde pueda contribuir con mi experiencia. ¡Estoy emocionada de explorar cómo puedo agregar valor a tu equipo!
 
 ¡Gracias por visitar mi perfil de GitHub!
 <br>
 <br>
 <br>
+<br>
+<br>
 <hr>
 
-# Nathaly Quiva's GitHub English Profile
+
+<div align="center">
+  <hr></hr>
+  <h1>Nathaly Quiva</h1>
+  <h4>Full Stack Developer/ Business Intelliigence</h4>
+  <hr></hr>
+</div>
+<br></br>
 
 ## Backend and Full Stack Capabilities
 
@@ -115,6 +127,30 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 - **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize. [Repository](https://github.com/NathalyQuiva/app_notes)
 - **restful_api_movies:** RESTful API developed about movies and users using Node.js, Express.js, Fetch API, and other tools to provide a streamlined API for performing various actions. [Repository](https://github.com/NathalyQuiva/restful_api_movies)
 
+## Business Intelligence Skills
+
+Knowledge and experience in projects involving the creation and manipulation of SQL relational databases and in Access (data migration, establishing relationships, database creation, queries, reports, and forms). Experience using formulas, pivot tables, and macros for data analysis and visualization in Microsoft Excel. Additionally, I have used Power BI for creating insights and interactive dashboards and task management tools like Jira.
+
+- 📊 **Excel:** Intermediate proficiency in Microsoft Excel for data analysis in the field of Business Intelligence, including advanced formulas, pivot tables, and macros.
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCr2RtUbgCzHuXQ8sjzM9VDYyv5mYAnwHphw&s" alt="Excel Logo" width="60">
+
+- 🗃️ **Microsoft Access:** Experience in database management projects, including queries, forms, and reports.
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZHlCTfcQ8A0zVaKoDZ9NuPdNe-28F_YleVQ&s" alt="Microsoft Access Logo" width="60">
+
+- 📊 **Power BI:** Experience in creating interactive reports and dashboards, data analysis, and visualizing complex data.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Power_BI_Logo.svg/120px-Power_BI_Logo.svg.png" alt="Power BI Logo" width="60">
+
+- 🗂️ **SQL:** Proficient in SQL for performing advanced queries, database management, and administration. Competent in PostgreSQL for managing and analyzing relational databases.
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgzGZXpyADmOyEwp9004kcqXsDDs3xuhpZpw&s" alt="SQL Logo" width="60">
+
+- 🗄️ **MongoDB:** Experience with MongoDB for managing non-relational databases.
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKNCcEoxryLJ8DnhKVKR0hsiqmiZgb0B16ZA&s" alt="MongoDB Logo" width="60">
+
+- 🐍 **Python:** Basic proficiency in Python for automating data analysis, scripting, and developing BI solutions.
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png" alt="Python Logo" width="60">
+
+
+
 ## Featured Business Intelligence Projects
 
 - **Electronics OKA:** Inventory management and data analysis project in Microsoft Excel with data integrity and consistency guarantees and implementation of advanced formulas, pivot tables, and macros. [Link](https://docs.google.com/spreadsheets/d/1o1EP7EVynzIzqU11ads1HJCltPQSJhIX/edit?usp=sharing&ouid=111282639346582920641&rtpof=true&sd=true)
@@ -133,7 +169,8 @@ https://nathalyquiva.github.io/portfolio_javascript/
 
 ## Get in Touch
 
-I'm passionate about backend and fullstack development and open to discussing opportunities where I can contribute my expertise. Whether it's backend-focused projects or full stack development, I'm excited to explore how I can add value to your team.
+I am passionate about backend development, full stack, data analysis, process optimization, and I am open to discussing opportunities where I can contribute with my experience. I am excited to explore how I can add value to your team!
+
 
 Thank you for visiting my GitHub profile! 
 
