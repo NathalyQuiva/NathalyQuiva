@@ -1,6 +1,6 @@
 <div align="center"># Nathaly Quiva. Desarrollador Full Stack / Inteligencia de Negocios.
-    <h1 style= "font-size: 40em;">Nathaly Quiva</h1>
-    <p>Desarrolladora Full Stack / Inteligencia de Negocios</p>
+    <h1 >Nathaly Quiva</h1>
+    <h2 >Desarrolladora Full Stack / Inteligencia de Negocios</h2>
 </div>
 
 
