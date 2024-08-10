@@ -38,8 +38,7 @@ Dominio del lenguaje Python y algoritmos, aplicados en diversos proyectos.
 
 ## Proyectos destacados inteligencia de negocios
 
-- **Electrónicos OKA:** Proyecto de gestión de inventarios y análisis de datos en Microsoft Excel con garantía de integridad y consistencia de datos e implementación de fórmulas avanzadas, tablas dinámicas y macros.
-. [Link](https://docs.google.com/spreadsheets/d/1o1EP7EVynzIzqU11ads1HJCltPQSJhIX/edit?usp=sharing&ouid=111282639346582920641&rtpof=true&sd=true)
+- **Electrónicos OKA:** Proyecto de gestión de inventarios y análisis de datos en Microsoft Excel con garantía de integridad y consistencia de datos e implementación de fórmulas avanzadas, tablas dinámicas y macros. [Link](https://docs.google.com/spreadsheets/d/1o1EP7EVynzIzqU11ads1HJCltPQSJhIX/edit?usp=sharing&ouid=111282639346582920641&rtpof=true&sd=true)
 - **Electrónicos OKA. Microsoft Access:** Proyecto de gestión de inventarios, creación de base de datos, consultas, formularios, informes y análisis de datos en Microsoft Access
 . [Link](https://drive.google.com/file/d/1NPy8Ri4FbxGnT-Ds4Ko4tK8byk5CRXCb/view?usp=sharing)
 - **Proyectos Python:** Proyectos en Lenguaje Python, desarrollado con la interfaz Visual Studio Code e IDLE, en donde se hace uso de: recursión, importaciones de módulos, uso de documentación Python, ciclos for y while, estructura de datos: listas, diccionarios, conjuntos; métodos de estructura de datos, importación de archivos. [Repositorio](https://github.com/NathalyQuiva/python_projects)
@@ -89,12 +88,17 @@ Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafti
 
 -Academic experience at Henry Bootcamp (2023): Contributed to backend development projects, focusing on performance optimization and API integrations and Full stack application development (relational database development, backend and frontend).
 
-## Featured Projects
+## Featured FullStack Projects
 
 - **Profinder:** It is a dating application that allows service provider users to publish their services and offer them within various categories in different areas of Latin America. Client users can consult these publications according to their area and establish contact with service providers to hire them.. [Repository](https://github.com/NathalyQuiva/profinder_services_application)
 - **app_notes:** It´s a Single Page Application about notes using the following technologies: React, Redux, Node, Express, and Sequelize. [Repository](https://github.com/NathalyQuiva/app_notes)
 - **restful_api_movies:** RESTful API developed about movies and users using Node.js, Express.js, Fetch API, and other tools to provide a streamlined API for performing various actions. [Repository](https://github.com/NathalyQuiva/restful_api_movies)
 
+## Featured Business Intelligence Projects
+
+- **Electronics OKA:** Inventory management and data analysis project in Microsoft Excel with data integrity and consistency guarantees and implementation of advanced formulas, pivot tables, and macros. [Link](https://docs.google.com/spreadsheets/d/1o1EP7EVynzIzqU11ads1HJCltPQSJhIX/edit?usp=sharing&ouid=111282639346582920641&rtpof=true&sd=true)
+- **Electronics OKA. Microsoft Access:** Inventory management project, database creation, queries, forms, reports, and data analysis in Microsoft Access. [Link](https://drive.google.com/file/d/1NPy8Ri4FbxGnT-Ds4Ko4tK8byk5CRXCb/view?usp=sharing)
+- **Python Projects:** Projects in Python language, developed using the Visual Studio Code and IDLE interfaces, making use of: recursion, module imports, Python documentation, for and while loops, data structures: lists, dictionaries, sets; data structure methods, file importation. [Repository](https://github.com/NathalyQuiva/python_projects)
 
 ## Contact
 
