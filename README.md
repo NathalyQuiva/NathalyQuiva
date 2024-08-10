@@ -1,11 +1,10 @@
-<div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Man_computer.svg/120px-Man_computer.svg.png" alt="Ícono de mujer trabajando en computadora" width="60">
+<div align="center"># Nathaly Quiva. Desarrollador Full Stack / Inteligencia de Negocios.
     <h1 style= "font-size: 40em;">Nathaly Quiva</h1>
     <p>Desarrolladora Full Stack / Inteligencia de Negocios</p>
 </div>
 
 
-# Nathaly Quiva. Desarrollador Full Stack / Inteligencia de Negocios.
+
 
 ## Capacidades en Backend y Full Stack
 
