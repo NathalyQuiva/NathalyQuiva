@@ -6,7 +6,7 @@
 </div>
 <br></br>
 
-#### Capacidades en Backend y Full Stack
+### Capacidades en Backend y Full Stack
 
 Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crear sólidas soluciones backend. Con una base sólida en JavaScript y Node.js, con experiencia en proyectos que crean aplicaciones escalables en el lado del servidor. También tengo experiencia con tecnologías frontend. Disfruto explorando el full stack y colaborando en proyectos que requieren una combinación de experiencia en backend y frontend. Aquí tienes un vistazo a mis habilidades:
 
@@ -92,12 +92,12 @@ Soy apasionada por el desarrollo backend, ,full stack, análisis de datos, optim
 
 <div align="center">
   <h1>Nathaly Quiva</h1>
-  <h4>Full Stack Developer/ Business Intelliigence</h4>
+  <h4>Full Stack Developer/ Business Intelligence</h4>
   <hr></hr>
 </div>
 <br></br>
 
-## Backend and Full Stack Capabilities
+### Backend and Full Stack Capabilities
 
 Hi there, I'm Nathaly Quiva 👋, a software developer with a passion for crafting robust backend solutions. With a solid foundation in JavaScript and Node.js, With experience in projects creating scalable server-side applications. I also have experience with frontend technologies. I enjoy exploring the full stack and collaborating on projects that require a blend of backend and frontend expertise. Here's a glimpse of my skills:
 
