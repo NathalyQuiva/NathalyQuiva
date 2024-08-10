@@ -39,7 +39,7 @@ Conocimientos y experiencia en proyectos de creación y manipulación de bases d
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCr2RtUbgCzHuXQ8sjzM9VDYyv5mYAnwHphw&s" alt="Logotipo de Excel" width="60">
 
 - 🗃️ **Microsoft Access:** Experiencia en proyectos en la gestión de bases de datos, consultas, formularios e informes.
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBPyjmUUUjLbvN2xe3j0PuERBCutQ31PSa4A&s" alt="Logotipo de Microsoft Access" width="60">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYSoSJj0kZI0B7TwS-krjJinQGiViywuIRdA&s" alt="Logotipo de Microsoft Access" width="60">
 
 - 🐘 **PostgreSQL:** Competente en PostgreSQL para la gestión y análisis de bases de datos relacionales.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/120px-Postgresql_elephant.svg.png" alt="Logotipo de PostgreSQL" width="60">
