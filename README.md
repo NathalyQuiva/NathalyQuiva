@@ -32,10 +32,7 @@ Hola, soy Nathaly Quiva 👋, una desarrolladora de software apasionada por crea
 
 ## Capacidades en Inteligencia de negocios (Business Intelligence)
 
-- Conocimientos y experiencia en la creación y manipulación de bases de datos relacionales SQL y en Access en proyectos (migración de datos, establecimiento de relaciones, creación de bases de datos, consultas, informes y formularios). 
-- Experiencia  en el uso de fórmulas, tablas dinámicas y macros para el análisis y visualización de datos en Microsoft Excel.
-Dominio del lenguaje Python y algoritmos, aplicados en diversos proyectos. 
-- Experiencia en proyectos utilizando Power BI para la creación de insights y dashboards interactivos y de herramienta de gestión de tareas y proyectos Jira.
+Conocimientos y experiencia en proyectos de creación y manipulación de bases de datos relacionales SQL y en Access (migración de datos, establecimiento de relaciones, creación de bases de datos, consultas, informes y formularios). Experiencia en el uso de fórmulas, tablas dinámicas y macros para el análisis y visualización de datos en Microsoft Excel. Además he utilizando Power BI para la creación de insights y dashboards interactivos y herramienta de gestión de tareas como Jira.
 
 
 - 📊 **Excel:** Dominio intermedio de Microsoft Excel para análisis de datos en el ámbito de Business Intelligence, incluyendo fórmulas avanzadas, tablas dinámicas y macros.
