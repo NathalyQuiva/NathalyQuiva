@@ -39,7 +39,7 @@ Dominio del lenguaje Python y algoritmos, aplicados en diversos proyectos.
 ## Proyectos destacados inteligencia de negocios
 
 - **Electrónicos OKA:** Proyecto de Gestión de Inventarios y Análisis de Datos en Microsoft Excel con garantía de integridad y consistencia de datos e implementación de fórmulas avanzadas, tablas dinámicas y macros.
-. [Repositorio](https://docs.google.com/spreadsheets/d/1o1EP7EVynzIzqU11ads1HJCltPQSJhIX/ edit?usp=sharing&ouid=111282639346582920641&rtpof=true&sd=true)
+. [Repositorio](https://docs.google.com/spreadsheets/d/1o1EP7EVynzIzqU11ads1HJCltPQSJhIX/edit?usp=sharing&ouid=111282639346582920641&rtpof=true&sd=true)
 - **app_notes:** Es una aplicación de página única sobre notas utilizando las siguientes tecnologías: React, Redux, Node, Express y Sequelize. [Repositorio](https://github.com/NathalyQuiva/app_notes)
 - **restful_api_movies:** API RESTful desarrollada sobre películas y usuarios utilizando Node.js, Express.js, Fetch API y otras herramientas para proporcionar una API simplificada para realizar diversas acciones. [Repositorio](https://github.com/NathalyQuiva/restful_api_movies)
 
